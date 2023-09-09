@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "2022-03-13",
+        "total_de_vendas": 15
+    },
+    {
+        "_id": "2022-03-14",
+        "total_de_vendas": 28
+    },
+    {
+        "_id": "2022-03-15",
+        "total_de_vendas": 8
+    },
+    {
+        "_id": "2022-03-16",
+        "total_de_vendas": 7
+    },
+    {
+        "_id": "2022-03-17",
+        "total_de_vendas": 6
+    }
+]
